@@ -11,10 +11,10 @@ from follow_protocol import follow_protocol
 import time
 
 
-bot = InstaBot(login="username", password="password",
+bot = InstaBot(login="instarbaijan", password="cm18091989",
                like_per_day=1000,
                comments_per_day=0,
-               tag_list=['follow4follow', 'f4f', 'cute'],
+               tag_list=['azerbaycan', 'baku', 'aztagram'],
                tag_blacklist=['rain', 'thunderstorm'],
                user_blacklist={},
                max_like_for_one_tag=50,
